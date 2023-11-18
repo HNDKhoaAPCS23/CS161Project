@@ -1,0 +1,13 @@
+- Create the Cells:
+	+ Coordinate
+	+ Flag/Open/Mine
+	+ Number of Mines Around
+- Create the Board:
+	+ first open
+	+ state of the game
+	+ vector of the cells
+	+ random mines
+	+ open the cells
+	+ flag the cells
+	+ get the numbers of flag
+	+ draw the board
